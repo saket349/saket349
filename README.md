@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Saket Kumar Singh!
 
-[![Linkedin: Saket Kumar](https://img.shields.io/badge/-Saketkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saket-kumar-a914bb1aa/)](https://www.linkedin.com/in/laxmandesai/)
+[![Linkedin: Saket Kumar](https://img.shields.io/badge/-Saketkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saket-kumar-a914bb1aa/)](https://www.linkedin.com/in/saket-kumar-a914bb1aa/)
 [![GitHub relaxxpls](https://img.shields.io/github/followers/relaxxpls?label=follow&style=social)](https://github.com/relaxxpls)
 
 - 🌱 I’m currently learning Front End Web Development (Angular) and Advanced Data Structures.
