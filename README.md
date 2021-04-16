@@ -3,8 +3,7 @@
 [![Linkedin: Saket Kumar](https://img.shields.io/badge/-Saketkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saket-kumar-a914bb1aa/)](https://www.linkedin.com/in/saket-kumar-a914bb1aa/)
 [![GitHub saket-kumar](https://img.shields.io/github/followers/saket349?label=follow&style=social)](https://github.com/saket349?tab=followers)
 
-- 🌱 I’m currently learning Full Stack Web Development (MERN) and Advanced Data Structures
-- :briefcase: Convener Electronics and Robotics Club, IIT Bombay
+
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: saket.1999bksc@gmail.com
 - :heart: Competitive Coding and Web Dev!
