@@ -1,8 +1,10 @@
 ## Hey 👋🏽, I'm Saket!
+<br>
 
 [![Linkedin: Saket Kumar](https://img.shields.io/badge/-Saketkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saket-kumar-a914bb1aa/)](https://www.linkedin.com/in/saket-kumar-a914bb1aa/)
 [![GitHub saket-kumar](https://img.shields.io/github/followers/saket349?label=follow&style=social)](https://github.com/saket349?tab=followers)
 
+<img align="right" width="200" height="250" src="https://github.com/rishabhdeepsingh/rishabhdeepsingh/blob/master/coding_from_home.gif">
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: saket.1999bksc@gmail.com
@@ -21,3 +23,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saket349" alt="rishabhdeepsingh" /> </p>
